@@ -1,0 +1,23 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.display {
+  font-size: 2em;
+  margin-bottom: 10px;
+}
+
+.controls button {
+  font-size: 1em;
+  margin: 5px;
+}
+
+.lap-list {
+  list-style-type: none;
+  padding: 0;
+  margin: 10px 0;
+}
+
+.lap-item {
+  margin: 5px;
+}

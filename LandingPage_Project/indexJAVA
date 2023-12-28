@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>JavaScript Variables</title>
+</head>
+<body>
+    <script>
+        // Declaring and initializing variables
+        var myName = "John";
+        var age = 30;
+        var isStudent = true;
+
+        // Printing the values of variables
+        document.write("Name: " + myName + "<br>");
+        document.write("Age: " + age + "<br>");
+        document.write("Is Student? " + isStudent + "<br>");
+
+        // Modifying variables
+        myName = "Jane";
+        age = age + 5;
+
+        // Printing modified values
+        document.write("<br>Updated Name: " + myName + "<br>");
+        document.write("Updated Age: " + age + "<br>");
+    </script>
+</body>
+</html>

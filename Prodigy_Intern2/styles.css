@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+}
+
+.input-section {
+    margin: 20px 0;
+}
+
+input {
+    width: 100%;
+    padding: 5px;
+}
+
+select {
+    width: 100%;
+    padding: 5px;
+}
+
+button {
+    width: 100%;
+    padding: 5px 10px;
+    background-color: #007bff;
+}
+
+.output-section {
+    margin-top: 20px;
+}
+
+h1 {
+    color: #007bff;
+}
+
+#result {
+    font-size: 24px;
+    font-weight: bold;
+}
